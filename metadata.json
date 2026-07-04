@@ -1,0 +1,6 @@
+{
+  "name": "CookSmart AI",
+  "description": "An AI-powered meal planning assistant that constructs custom daily menus, scaled groceries, and cooking guides optimized for your budget, dietary choices, and cooking skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
